@@ -1,2 +1,6 @@
 # Newb
 Trying this out
+
+Hi....
+
+I am a programmer, mother, optimist...
